@@ -16,4 +16,5 @@ print(2**4)"""
 #c="5"
 #d=True
 
-print ("hello all" + str("20") + "us" )
+#print ("hello all" + str(20) + "us" )
+print("Milad")
