@@ -47,7 +47,7 @@ def exponent(x, y):
 
 # This function squr two numbers
 def sqrt(x, y):
-    return x ** y
+    return x ** y/0.5
 
 print("Select operation.")
 print("1.Add")
