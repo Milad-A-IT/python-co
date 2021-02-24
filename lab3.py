@@ -102,10 +102,12 @@ for i in range(1,21):
 		
 printValues(l)"""
 #===========================================================
+#Q7
 """#fibonnaci numbers less than 1000
-x,y=0,1
+x=0
+y=1
 
 while y<1000:
     print(y)
     x,y = y,x+y
-"""
+    """
