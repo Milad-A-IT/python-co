@@ -24,10 +24,10 @@ print(" Circumference Of a Circle = %.2f" %circumference)"""
 
 def findArea(r): 
 	PI = 3.142
-	return PI * (r*r); 
+	return PI * (r*r)
 
 # Driver method 
-print("Area is %.6f" % findArea(5)); 
+print("Area is %.6f" % findArea(6)) 
 
 # This code is contributed by Chinmoy Lenka 
 #================================================================
