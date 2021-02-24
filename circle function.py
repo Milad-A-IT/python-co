@@ -36,7 +36,7 @@ def findArea(r):
 	return PI * (r*r); 
 
 # Driver method 
-print("Area is %.6f" % findArea(1)); 
+print("Area is %.6f" % findArea(5))
 
 
 # This code is contributed by Chinmoy Lenka 
