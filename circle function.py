@@ -20,14 +20,18 @@ circumference = 2 * PI * radius
 print(" Area Of a Circle = %.2f" %area)
 print(" Circumference Of a Circle = %.2f" %circumference)"""
 #================================================================
-# Python program to find Area of a circle 
+"""# Python program to find Area of a circle 
 
 def findArea(r): 
 	PI = 3.142
 	return PI * (r*r)
 
 # Driver method 
-print("Area is %.6f" % findArea(6)) 
-
-# This code is contributed by Chinmoy Lenka 
+print("Area is %.6f" % findArea(5)) """
 #================================================================
+def findArea(r): 
+	PI = 3.142
+    output = PI * (r*r)
+	return output 
+c_area = findArea
+print("Area is %.6f" c_area(5)) 
